@@ -1,1 +1,9 @@
-# -GamePadLauncherPro-install.sh-main.sh-menu.sh-listener.sh-mapear.sh-profiles-scripts-README.md
+📁 GamePadLauncherPro/
+├── install.sh
+├── main.sh
+├── menu.sh
+├── listener.sh
+├── mapear.sh
+├── profiles/
+├── scripts/
+└── README.md
